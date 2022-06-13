@@ -8,5 +8,5 @@ function run() {
 
     if (a == b) {
         return c;
-    }
+     }
 }

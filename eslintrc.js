@@ -1,3 +1,7 @@
+/*
+ *   Copyright (c) 2022 
+ *   All rights reserved.
+ */
 module.exports = {
     extends: ['airbnb-base', 'plugin:prettier/recommended'],
     env: {
